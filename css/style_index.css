@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.logo {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    vertical-align: middle;
+}
+.homecard{
+    background-color: #343a40;
+    border-radius: 0px; border: none;
+    color: #fff;
+}
+.product-division{
+    font-family: 'Ubuntu', sans-serif;
+}
+#products {
+    padding-top: 7%;
+    padding-bottom:3%;
+}
+.communitycard {
+    border-radius: 0px;
+    border: none;
+    color: #343a40;
+    background-image: url('https://static.c.realme.com/IN/wm-thread/1314159792654123008.png');
+    background-size: cover;
+}
+.communitybodycard{
+    padding-top: 10%;
+    padding-bottom:3%;
+}

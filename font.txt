@@ -1,0 +1,39 @@
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+<div class="row title mb-2">
+                                        <h2>Realme Series 8 <span style="font-size:20px; color:#DEC11F;">PRO</span>
+                                        </h2>
+                                        <p style="font-size: 20px;">
+                                            ₹ 19,999
+                                        </p>
+                                        <p>
+                                        <ul>
+                                            <li>
+                                                8GB + 128GB
+                                            </li>
+                                            <li>
+                                                108MP Ultra Quard Camera. Starry Time-lapse Video
+                                            </li>
+                                            <li>
+                                                16.3cm(6.4'') Super AMOLED fullscreen
+                                            </li>
+                                            <li>
+                                                Ultra-fast in-display Fingerprint
+                                            </li>
+                                            <li>
+                                                4500mAh Massive Battery
+                                            </li>
+                                            <li>
+                                                720G Snapdragon Processor
+                                            </li>
+                                        </ul>
+                                        </p>
+                                        <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <button type="button" class="btn btn-outline-warning">Warning</button>
+                                        </div>
+
+                                    </div>
